@@ -4,6 +4,7 @@ tags:
   - rekursion
   - advent-of-code
   - codingame
+publish: "true"
 ---
 
 

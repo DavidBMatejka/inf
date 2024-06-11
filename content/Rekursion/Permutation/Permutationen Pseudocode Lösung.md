@@ -1,3 +1,8 @@
+---
+publish: "true"
+---
+
+
 ```
 void permutationen(String s) {
 	1. Falls s.length() == 1, gib das Element zurück

@@ -1,3 +1,8 @@
+---
+publish: "true"
+---
+
+
 ```java
 private static List<String> variation(String s) {
 	if (s.length() == 1) {

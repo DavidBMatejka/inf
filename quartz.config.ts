@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Informatik Basiskurs",
+    pageTitle: "Informatik Basiskurs - Startseite",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

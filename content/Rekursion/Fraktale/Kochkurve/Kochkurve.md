@@ -14,14 +14,14 @@ Oben ist ein selbstähnliches Fraktal[^1] zu sehen, welches als Kochkurve bezeic
 
 ### Zeichnen lernen
 
->[!Aufgabe]
+>[!faq] Aufgabe
 >1. Erstelle ein Programm um Linien zeichnen zu können: [[In Java zeichnen - Drawing with Turtle]]
 >2. Erstelle die [[Turtle Klasse]].
 > 3. Probiere die Turtle-Klasse aus, indem du beliebige Figuren zeichnest, wie Vierecke, Dreiecke, ...
 
 ### Kochkurve zeichnen
 
->[!Aufgabe]
+>[!faq] Aufgabe
 >1. Vervollständige in der [[In Java zeichnen - Drawing with Turtle|DrawingWithTurtle]]-Klasse die Methode `zeichneKochkurve(Turtle turtle, double length, int depth)`. Die Methode soll erst einmal nur die folgende Kurve zeichnen:
 >![[KochKurveSchritt1.png]]
 >2. Vervollständige die Methode, sodass die Kochkurven mit beliebiger Tiefe gezeichnet werden können.
@@ -32,17 +32,17 @@ Oben ist ein selbstähnliches Fraktal[^1] zu sehen, welches als Kochkurve bezeic
 
 Wurde die `zeichneKochkurve(...)`-Methode erfolgreich implementiert, dann sollten die ersten vier Kochkurven mit Rekursionstiefen 0 bis 3 so aussehen:
 ![[KochKurveIteration1-4.png]]
->[!answer]- Lösung
+>[!done]- Lösung
 >  ![[Lösung zur Methode zeichneKochkurve()]]
 >  [[Lösung gesamt zu DrawingWithTurtle]]
 
 
 ---
-### Zusatz
->[!example] Aufgabe
+
+>[!faq] Zusatzaufgabe 
 > Hat man die Kochkurve programmiert, lässt sie sich mit wenig Aufwand zur Koch'schen Schneeflocke erweitern:  ![[Kochsche Schneeflocke.png]]
 
-> [!answer]- Lösung
+> [!done]- Lösung
 > ![[Lösung Kochsche Schneeflocke]]
 
 
