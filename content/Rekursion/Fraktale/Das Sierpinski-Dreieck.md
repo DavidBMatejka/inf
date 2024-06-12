@@ -4,6 +4,8 @@ tags:
   - rekursion
 title: Das Sierpinski-Dreieck
 publish: "true"
+cssclasses:
+  - clean-embeds
 ---
 
 ![[SierpinskiD8.png]]
@@ -14,4 +16,7 @@ Die ersten vier Dreiecke mit Rekursionstiefen 1-4 sehen so aus:
 
 >[!faq] Aufgabe
 >Implementiere das Sierpinski-Dreieck.
->
+
+
+>[!done]- Lösung
+>  ![[Lösung Sierpinski-Dreieck]]
